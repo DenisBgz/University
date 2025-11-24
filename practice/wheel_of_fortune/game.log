@@ -1,0 +1,42 @@
+ERROR:root:[words_count: words_count() missing 1 required positional argument: 'filename'
+ERROR:root:[words_count: words_count() missing 1 required positional argument: 'filename'
+ERROR:root:[words_count: [Errno 2] No such file or directory: 'data/words.txt'
+ERROR:root:[words_count: [Errno 2] No such file or directory: 'data/words.txt'
+INFO:root:Game started
+INFO:root:Set lives: 7
+INFO:root:User guessed: "привет"
+WARNING:root:Failed to guess: "привет"
+INFO:root:Decreased lives: 6
+INFO:root:User guessed: "ка"
+WARNING:root:Failed to guess: "ка"
+INFO:root:Decreased lives: 5
+INFO:root:User guessed: "а"
+INFO:root:Guessed a letter: "а"
+INFO:root:User guessed: "кфп"
+WARNING:root:Failed to guess: "кфп"
+INFO:root:Decreased lives: 4
+INFO:root:User guessed: "укфп"
+WARNING:root:Failed to guess: "укфп"
+INFO:root:Decreased lives: 3
+INFO:root:User guessed: "аеры"
+WARNING:root:Failed to guess: "аеры"
+INFO:root:Decreased lives: 2
+INFO:root:User guessed: "апркерцриукеи"
+WARNING:root:Failed to guess: "апркерцриукеи"
+INFO:root:Decreased lives: 1
+INFO:root:User guessed: "кеицукеи"
+WARNING:root:Failed to guess: "кеицукеи"
+INFO:root:Decreased lives: 0
+INFO:root:User lost the game
+INFO:root:Game ended by user
+INFO:root:Game started
+INFO:root:Set lives: 7
+INFO:root:User guessed: "впыку"
+WARNING:root:Failed to guess: "впыку"
+INFO:root:User lost the game
+INFO:root:Set lives: 7
+INFO:root:Game started
+INFO:root:Set lives: 7
+INFO:root:User guessed: "пвпк"
+WARNING:root:Failed to guess: "пвпк"
+INFO:root:User lost the game

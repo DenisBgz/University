@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/intbyte/university/
+python -m wheel_of_fortune
