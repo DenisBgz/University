@@ -1,5 +1,4 @@
 import re
-import csv
 import urllib.request
 
 url = "https://msk.spravker.ru/avtoservisy-avtotehcentry"
